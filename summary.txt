@@ -1,0 +1,34 @@
+Summary
+-------------
+250 dataset
+CNN-- 75
+FSL-- 90
+-------------
+zernike momemts 32 
+random forest
+gb
+xgboost
+svm
+--------------
+HPO
+Optuna
+Raytune
+ScikitOptimize
+----------------------------------------------
+
+3000 dataset
+--------------
+zernike moments
+random forest
+gb
+xgboost
+svm
+--------------
+HPO
+Optuna
+Raytune
+ScikitOptimize
+------------------
+
+
+
