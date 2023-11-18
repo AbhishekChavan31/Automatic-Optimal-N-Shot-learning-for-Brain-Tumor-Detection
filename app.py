@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
 
-model = pickle.load(open('Pickel Files','rb'))
+model = pickle.load(open('Pickel Files/xgboost_3000.py','rb'))
 
 st.title("Brain Tumor Detection")
 st.markdown("Here we are using zernike moments extracted from the tumor images")
